@@ -18,3 +18,9 @@
     top: 50px;
     z-index: 2;
 }
+.image:nth-child(3)
+{
+    left: 50px;
+    top: 50px;
+    z-index: 2;
+}
