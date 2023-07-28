@@ -10,5 +10,11 @@
     height: 100%;
     object-fit: cover;
     transition: z-index 0.3s transform 0.3s;
-    
+
+}
+.image:nth-child(2)
+{
+    left: 50px;
+    top: 50px;
+    z-index: 2;
 }
